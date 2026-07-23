@@ -1,14 +1,14 @@
 <template>
   <v-app>
     <v-main>
-      <navHeader />
+      <NavHeader />
       <router-view />
     </v-main>
   </v-app>
 </template>
 
 <script setup>
-import navHeader from './components/navHeader.vue';
+import NavHeader from '@/components/navHeader.vue';
 
 
 </script>
