@@ -13,7 +13,7 @@ declare module 'vue' {
     Compteste: typeof import('./src/components/compteste.vue')['default']
     Contatos: typeof import('./src/components/contatos.vue')['default']
     Navfooter: typeof import('./src/components/navfooter.vue')['default']
-    NavHeader: typeof import('./src/components/navHeader.vue')['default']
+    NavHeader: typeof import('./src/components/NavHeader.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Servicos: typeof import('./src/components/servicos.vue')['default']
