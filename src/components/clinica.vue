@@ -35,7 +35,7 @@
         </div>
 
         <div class="profile__text">
-          <p class="profile__role">Dentosta</p>
+          <p class="profile__role">Dentista</p>
           <h3 class="profile__name">Dr. Cássio Honorato</h3>
           <p class="profile__cro">CRO-PI 4821 · Especialista em Odontologia Estética e Implantodontia</p>
 
