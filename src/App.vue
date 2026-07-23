@@ -7,7 +7,7 @@
   </v-app>
 </template>
 
-<script lang="ts" setup>
+<script setup>
 import navHeader from './components/navHeader.vue';
 
   //
