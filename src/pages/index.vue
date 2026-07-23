@@ -4,7 +4,7 @@
   <servicos />
   <after />
   <clinica />
-  <como-chegar />
+  <ComoChegar />
   <contatos />
   <navfooter/>
 </div>
